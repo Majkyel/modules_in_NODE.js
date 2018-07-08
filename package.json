@@ -1,0 +1,21 @@
+{
+  "name": "13_4",
+  "version": "1.0.0",
+  "description": "I created application wich use OS module and timeConverter module wich I created.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app/program.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Majkyel/modules_in_NODE.js.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Majkyel/modules_in_NODE.js/issues"
+  },
+  "homepage": "https://github.com/Majkyel/modules_in_NODE.js#readme"
+}
